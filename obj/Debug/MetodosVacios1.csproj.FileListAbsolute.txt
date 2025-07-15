@@ -1,0 +1,8 @@
+C:\Users\xseba\Programacion\BlazorCrudProfesores\BlazorCrudProfesores\MetodosVacios1\MetodosVacios1\bin\Debug\MetodosVacios1.exe.config
+C:\Users\xseba\Programacion\BlazorCrudProfesores\BlazorCrudProfesores\MetodosVacios1\MetodosVacios1\bin\Debug\MetodosVacios1.exe
+C:\Users\xseba\Programacion\BlazorCrudProfesores\BlazorCrudProfesores\MetodosVacios1\MetodosVacios1\bin\Debug\MetodosVacios1.pdb
+C:\Users\xseba\Programacion\BlazorCrudProfesores\BlazorCrudProfesores\MetodosVacios1\MetodosVacios1\obj\Debug\MetodosVacios1.csproj.AssemblyReference.cache
+C:\Users\xseba\Programacion\BlazorCrudProfesores\BlazorCrudProfesores\MetodosVacios1\MetodosVacios1\obj\Debug\MetodosVacios1.csproj.CoreCompileInputs.cache
+C:\Users\xseba\Programacion\BlazorCrudProfesores\BlazorCrudProfesores\MetodosVacios1\MetodosVacios1\obj\Debug\MetodosVacios1.exe
+C:\Users\xseba\Programacion\BlazorCrudProfesores\BlazorCrudProfesores\MetodosVacios1\MetodosVacios1\obj\Debug\MetodosVacios1.pdb
+C:\Users\xseba\Programacion\BlazorCrudProfesores\BlazorCrudProfesores\MetodosVacios1\MetodosVacios1\obj\Debug\MetodosVacios1.exe.config
